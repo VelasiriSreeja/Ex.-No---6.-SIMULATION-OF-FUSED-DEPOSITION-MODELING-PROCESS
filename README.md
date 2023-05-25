@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE: 25.05.2023
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -35,7 +35,7 @@ FILAMENT:
 
  filament refers to the thermoplastic material that is used as the raw material for 3D printing. 
  
- START THE PROCESS:
+ START PROCESS:
  
 Prepare the 3D Model: Begin by creating or obtaining a 3D model of the object you want to print. This can be done using computer-aided design (CAD) software or by downloading pre-designed models from online repositories.
 
@@ -57,7 +57,7 @@ Monitor the Print: During the printing process, keep an eye on the progress to e
 
 Post-Processing: Once the print is complete, allow the object to cool down before removing it from the print bed. Depending on the filament and desired finish, you may need to perform additional post-processing steps, such as removing support structures, sanding, painting, or other surface treatments.
 
-STOP THE PROCESS:
+STOP PROCESS:
 
 Pause the Print: If you need to temporarily stop the printing process, most 3D printers have a pause function. Use the printer's control panel or software interface to pause the print. This will halt the extrusion of filament and movement of the print head.
 
